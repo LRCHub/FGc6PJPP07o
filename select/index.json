@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "いらないもの",
+  "base_artist": "キタニタツヤ、なとり",
+  "createdAt": "2026-03-22T10:58:36.300952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いらないもの",
+      "artist": "キタニタツヤ;なとり",
+      "has_synced": true,
+      "path": "select/01_いらないもの_キタニタツヤ;なとり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いらないもの",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_いらないもの_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いらないもの",
+      "artist": "natori; Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_いらないもの_natori;_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いらないもの (Instrumental)",
+      "artist": "キタニタツヤ & なとり",
+      "has_synced": true,
+      "path": "select/04_いらないもの_(Instrumental)_キタニタツヤ_&_なとり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いらないもの (Instrumental)",
+      "artist": "キタニタツヤ×なとり",
+      "has_synced": true,
+      "path": "select/05_いらないもの_(Instrumental)_キタニタツヤ×なとり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いらないもの",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/06_いらないもの_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いらないもの - Chained",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/07_いらないもの_-_Chained_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いらないもの (Paused)",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/08_いらないもの_(Paused)_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いらないもの",
+      "artist": "Tatsuya Kitani, natori",
+      "has_synced": true,
+      "path": "select/09_いらないもの_Tatsuya_Kitani,_natori.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "いらないもの (Instrumental)",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/10_いらないもの_(Instrumental)_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "いらないもの - Chained",
+      "artist": "Tatsuya Kitani, 및, natori",
+      "has_synced": true,
+      "path": "select/11_いらないもの_-_Chained_Tatsuya_Kitani,_및,_natori.lrc"
+    }
+  ]
+}
